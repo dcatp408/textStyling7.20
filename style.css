@@ -1,0 +1,36 @@
+h1 {
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 7px;
+    margin-bottom: 0px;
+    padding-left: 5px;
+    
+}
+h1 span {
+    color: rgb(94, 250, 255);
+}
+h2 {
+    color: white;
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+
+}
+
+h3 {
+    color: black;
+    text-align: right;
+    text-decoration: underline;
+    background-color: lightblue;
+    font-size: 40px;
+    font-weight: 100;
+    margin-top: 5px;
+    padding-right: 5px;
+}
